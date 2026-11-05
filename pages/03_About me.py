@@ -20,9 +20,9 @@ st.divider()
 # Summary
 st.header("Summary")
 st.info("""
-I am a Commercial, marketing and Operational Data Analytics and Business Intelligence professional with almost 7 years of experience translating complex data into actionable recommendations for stakeholders at all levels of organizations including senior leadership. 
-
-I have a proven track record of translating complex operational, marketing, supply chain, digital consumer behavior, e-commerce and commercial data into decision-ready insights using Snowflake, Databricks, Qlik sense, Power BI, advanced SQL, and Python in global HQ/international matrix environment (Kesko, ABB Group) with hands-on experience in establishing scalable self-service analytics, KPI frameworks. I partner across the organization to align requirement, apply AI to continuously improve business, marketing investment and resource allocation.
+I am a commercial/marketing operational BI/Data Analytics professional with almost 7 years of experience translating complex data into actionable recommendations for stakeholders at all levels of organizations including senior leadership. 
+I have proven track record of translating complex operational, marketing, supply chain, digital consumer behavior, e-commerce and commercial data into decision-ready insights using Snowflake, Databricks, Qlik sense, Power BI, advanced SQL, and Python in global HQ International matrix environment (Kesko, ABB Group) with hands-on experience in establishing scalable self-service analytics and KPI frameworks. 
+I partner across the organization to align requirement, improve business process, and support analytics initiatives that directly affect resource allocation and strategic business planning. I constantly improve myself and support others, apply AI and actively provide insights for business growth and investment.
 """)
 
 # Competencies
